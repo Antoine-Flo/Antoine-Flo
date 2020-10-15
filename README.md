@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a future full-stack developer, actually learning JS. 
+
 <!--
 **Antoine-Flo/Antoine-Flo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

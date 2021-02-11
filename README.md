@@ -9,4 +9,3 @@ I'm a future full-stack developer, actually learning JS, Git, Node and sooo many
 - 💬 Ask me about anything
 - 📫 How to reach me: good question
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: recursivity is frying my brain 

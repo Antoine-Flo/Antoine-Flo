@@ -1,14 +1,14 @@
-![alt text](https://github.com/Antoine-Flo/Antoine-Flo/blob/main/twitter-banner.jpg?raw=true)
+![alt text](https://github.com/Antoine-Flo/Antoine-Flo/blob/main/GH-banner.jpg?raw=true)
 
 ### Antoine Flouzat / L'instant Code 👋
 
-I'm a web developer, actually learning Angular, Docker, Linux and sooo many things !
-I'm also the founder of the Youtube channel "L'instant code"
+Je suis développeur web, je travaille en ce moment à la maitrise d'Angular </p>
+Je suis aussi le créateur de la chaîne YouTube "L'instant code".
 
-- 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning everything my brain can digest
-- 👯 I’m looking for a job to learn the things I can't learn alone
-- 🤔 I’m looking for help with open source, to get me started
-- 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/antoine-flouzat-d%C3%A9veloppeur-web/)
-- 😄 My channel : [Youtube](https://www.youtube.com/channel/UCCG1e6RTMGyd0eVbQHRPASw)
+- 🔭 Je travaille beaucoup sur [ma chaîne](https://www.youtube.com/channel/UCCG1e6RTMGyd0eVbQHRPASw) et sur quelque side-projects.
+- 🌱 En ce moment j'étudie les expressions régulières et Typescript
+- 👯 J'aimerai trouver un travail où apprendre ce que je ne peux apprendre seul
+- 🤔 Je cherche de l'aide pour démarrer dans l'open source
+- 💬 N'hésitez pas à me contacter, je suis très disponible
+- 📫 Me joindre : [Linkedin](https://www.linkedin.com/in/antoine-flouzat-d%C3%A9veloppeur-web/)
+- 😄 Ma chaîne : [L'instant Code](https://www.youtube.com/channel/UCCG1e6RTMGyd0eVbQHRPASw)

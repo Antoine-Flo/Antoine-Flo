@@ -1,3 +1,5 @@
+![alt text](https://github.com/Antoine-Flo/Antoine-Flo/blob/main/twitter-banner.jpg?raw=true)
+
 ### Antoine Flouzat / L'instant Code 👋
 
 I'm a web developer, actually learning Angular, Docker, Linux and sooo many things !

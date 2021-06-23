@@ -1,6 +1,6 @@
 ![Youtube Banner](https://github.com/Antoine-Flo/Antoine-Flo/blob/main/GH-banner.jpg?raw=true)
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Bienvenue !  <div style="float: right">![Profile View Counter](https://komarev.com/ghpvc/?username=Antoine-Flo)</div>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Bienvenue !  <div style="float: right"> ![Profile View Counter](https://komarev.com/ghpvc/?username=Antoine-Flo) </div>
 
 <h3>
   

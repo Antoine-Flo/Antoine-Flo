@@ -1,5 +1,3 @@
-![Youtube Banner](https://raw.githubusercontent.com/Antoine-Flo/Antoine-Flo/main/GH-banner.jpg)
-
 # <img target="https://www.youtube.com/channel/UCCG1e6RTMGyd0eVbQHRPASw/videos" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Welcome !  ![Profile View Counter](https://komarev.com/ghpvc/?username=Antoine-Flo) 
 
 I'm a french self-taught software developer. I love learning new stuff and teaching them. ❤
@@ -19,14 +17,6 @@ const Stack = {
 }
 ```
 </h3>
-
-# 👓 YouTube Channel
-I'm always working on my channel 😊 [I create tutorials about web-development.](https://www.youtube.com/channel/UCCG1e6RTMGyd0eVbQHRPASw)
-
-- [TailWindCSS](https://www.youtube.com/watch?v=2NT6VvfR9Hk)
-- [Nouveautés Ecma 2021](https://www.youtube.com/watch?v=Ku9RK6bVbxc)
-- [Web Components](https://www.youtube.com/watch?v=hyqHtblORDY)
-- ...
 
 # 📫 Contact me
 <p align="center">
